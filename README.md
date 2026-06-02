@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="images/logo.png" alt="Nexterview" width="320" />
-
 [![FastAPI](https://img.shields.io/badge/FastAPI-0.115+-009688.svg)](https://fastapi.tiangolo.com/)
 [![React](https://img.shields.io/badge/React-19-61DAFB.svg)](https://react.dev/)
 [![LangGraph](https://img.shields.io/badge/LangGraph-Powered-1C3C3C.svg)](https://www.langchain.com/langgraph)
@@ -129,14 +127,6 @@ AI 读取你的简历，通过 LangGraph 状态机驱动完整流程：自我介
 ---
 
 ## 界面预览
-
-### 首页与个人画像
-
-| 首页 | 个人画像 |
-| --- | --- |
-| ![Home dashboard](images/home.png) | ![Profile](images/profile.png) |
-
-首页聚合训练入口、近期进度和学习概览，画像页集中展示训练统计、当前重点与近期信号。
 
 ### 知识库与题目图谱
 

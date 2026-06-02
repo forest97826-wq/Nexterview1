@@ -29,14 +29,6 @@ Nexterview builds a **persistent candidate profile system**. After each session,
 
 ## Screenshots
 
-### Home & Profile
-
-| Home | Profile |
-| --- | --- |
-| ![Home dashboard](images/home.png) | ![Profile](images/profile.png) |
-
-The home page surfaces training entry points, recent progress, and your current learning snapshot, while the profile page summarizes practice statistics, priorities, and recent signals.
-
 ### Knowledge Base & Question Graph
 
 | Knowledge library | Question graph |
