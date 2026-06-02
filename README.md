@@ -10,7 +10,7 @@
 
 **从刷题到实战的 AI 技术面试训练系统。**
 
-[在线 Demo](https://aari.top/) · [快速开始](#快速开始) · [English](README.en.md)
+[快速开始](#快速开始) · [English](README.en.md)
 
 </div>
 
@@ -38,18 +38,6 @@ Nexterview 的目标不是“再生成一组题”，也不是只做一轮模拟
 | 练完就结束 | 训练 -> 评估 -> 画像更新 -> 下轮更精准 |
 
 > **Nexterview 不是帮你“刷一轮题”，而是帮你建立一套从刷题到实战的 AI 技术面试训练系统。**
-
----
-
-## 在线体验
-
-直接体验：**[https://aari.top/](https://aari.top/)**
-
-| Email | Password |
-| --- | --- |
-| admin@techspar.local | admin123 |
-
-> 演示环境请不要上传真实简历、真实录音或任何敏感个人信息。
 
 ---
 
