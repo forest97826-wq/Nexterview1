@@ -137,7 +137,7 @@ def migrate_files():
 
 
 def main():
-    print("=== TechSpar Migration: Single-user -> Multi-user ===\n")
+    print("=== Nexterview Migration: Single-user -> Multi-user ===\n")
 
     print("[1/3] Creating default user...")
     create_default_user()

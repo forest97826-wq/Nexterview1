@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="images/logo.png" alt="TechSpar" width="360" />
+  <img src="images/logo.png" alt="Nexterview" width="360" />
 </p>
 
 <p align="center">
@@ -16,11 +16,11 @@
 
 Traditional interview tools are stateless — every session starts from scratch with no knowledge of your weak spots or growth trajectory.
 
-TechSpar builds a **persistent candidate profile system**. After each session, it automatically extracts weaknesses, evaluates mastery levels, and records thinking patterns to form a continuously evolving personal profile. The next time it generates questions, the AI interviewer targets your weak spots based on your profile — the more you practice, the better it knows you, and training efficiency grows exponentially.
+Nexterview builds a **persistent candidate profile system**. After each session, it automatically extracts weaknesses, evaluates mastery levels, and records thinking patterns to form a continuously evolving personal profile. The next time it generates questions, the AI interviewer targets your weak spots based on your profile — the more you practice, the better it knows you, and training efficiency grows exponentially.
 
-## Why TechSpar
+## Why Nexterview
 
-| Traditional Tools | TechSpar |
+| Traditional Tools | Nexterview |
 |---|---|
 | Stateless, starts from zero every time | Long-term memory, tracks growth over time |
 | Fixed question bank, random selection | Profile-based, precisely targets weak spots |
@@ -59,13 +59,13 @@ The history page filters past sessions by mode, while the topic detail view cons
 | --- | --- |
 | ![Job prep](images/job-prep.png) | ![Recording review](images/recording-review.png) |
 
-TechSpar also supports JD-based interview prep and post-interview recording analysis for targeted practice and structured review.
+Nexterview also supports JD-based interview prep and post-interview recording analysis for targeted practice and structured review.
 
 ## Architecture
 
 ### Three-Layer Information Fusion for Question Generation
 
-TechSpar doesn't randomly pick questions — it fuses three layers of information to make every question count:
+Nexterview doesn't randomly pick questions — it fuses three layers of information to make every question count:
 
 ```
 ┌─────────────────────────────────────────────────┐
@@ -203,7 +203,7 @@ Open `http://localhost:5173` to start training (or `http://localhost` if using D
 ## Project Structure
 
 ```
-TechSpar/
+Nexterview/
 ├── backend/
 │   ├── main.py              # FastAPI entry, API routes
 │   ├── memory.py            # Profile management (Mem0-style)

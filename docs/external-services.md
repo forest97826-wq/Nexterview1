@@ -162,7 +162,7 @@ curl "$COPILOT_API_BASE/models" \
 
 只填环境变量还不够。当前项目启用 NLS 还需要安装阿里云 NLS Python SDK。
 
-仓库里的说明已经写在 [requirements.txt](/Users/aari/Documents/TechSpar/requirements.txt) 注释里，按那里安装即可。
+仓库里的说明已经写在 [requirements.txt](/Users/aari/Documents/Nexterview/requirements.txt) 注释里，按那里安装即可。
 
 #### 怎么验证
 
